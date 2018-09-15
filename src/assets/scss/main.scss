@@ -935,10 +935,10 @@
 	#header {
 		@include padding(9em, 0, (0,0,_size(element-margin),0));
 		@include dark(#4686a0);
-		background-attachment:	fixed,							fixed,							fixed;
 		background-image:		url('../images/landingpage.jpg');
 		background-position:	top right;
-		background-size:		auto,							cover,							cover;
+		background-repeat: no-repeat;
+    	background-size: cover;
 		overflow: hidden;
 		position: relative;
 		text-align: center;
