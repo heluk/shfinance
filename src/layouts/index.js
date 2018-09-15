@@ -3,7 +3,7 @@ import Link from "gatsby-link";
 import "../assets/scss/main.scss";
 
 import Header from "../components/header";
-import Footer from "../components/hooter";
+import Footer from "../components/footer";
 
 class Template extends React.Component {
     constructor(props) {
