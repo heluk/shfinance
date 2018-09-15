@@ -1,11 +1,11 @@
 {
-  "name": "gatsby-starter-photon",
-  "description": "Gatsby Starter - Photon",
+  "name": "sh-finance",
+  "description": "",
   "version": "1.0.0",
-  "author": "Hunter Chang",
+  "author": "Lukas Heschl",
   "dependencies": {
     "font-awesome": "^4.7.0",
-    "gatsby": "^1.9.243",
+    "gatsby": "^1.9.277",
     "gatsby-image": "^1.0.42",
     "gatsby-link": "^1.6.40",
     "gatsby-plugin-google-analytics": "^1.0.24",
@@ -27,11 +27,11 @@
   "main": "n/a",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gatsbyjs/gatsby-starter-blog.git"
+    "url": "git://github.com/heluk/shfinance.git"
   },
   "scripts": {
     "dev": "gatsby develop",
     "develop": "gatsby develop",
-    "build": "npm install preact-cli && preact build"
+    "build": "gatsby build"
   }
 }
