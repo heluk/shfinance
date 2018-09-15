@@ -32,6 +32,6 @@
   "scripts": {
     "dev": "gatsby develop",
     "develop": "gatsby develop",
-    "build": "gatsby build"
+    "build": "npm install preact-cli && preact build"
   }
 }
