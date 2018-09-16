@@ -1111,6 +1111,15 @@
 		}
 	}
 
+	#contact{
+		background-image:		url('../images/panorama.jpg');
+		background-position:	top right;
+		background-repeat: no-repeat;
+    	background-size: cover;
+		overflow: hidden;
+		position: relative;
+	}
+
 /* XLarge */
 
 	@include breakpoint(xlarge) {
