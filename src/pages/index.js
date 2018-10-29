@@ -4,7 +4,7 @@ import Helmet from "react-helmet";
 
 import pic01 from '../assets/images/pic01.jpg'
 import pic02 from '../assets/images/business.jpg'
-import pic03 from '../assets/images/investment2.jpg'
+import pic03 from '../assets/images/coins.jpg'
 import pic04 from '../assets/images/realestate.jpg'
 import OttoHeschl from '../assets/images/profil.jpg'
 
