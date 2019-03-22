@@ -31,7 +31,7 @@ class Footer extends React.Component {
                         <Link to="/impressum">Impressum</Link>
                     </div>
                     <div>
-                        <p>Copyright © S & H Finanzberatung GmbH 2018</p>
+                        <p>Copyright © S & H Finanzberatung GmbH 2019</p>
                     </div>
                 </div>
             </section>
