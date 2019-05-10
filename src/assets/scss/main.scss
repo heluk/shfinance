@@ -96,6 +96,7 @@
 	h3 {
 		font-size: 1.35em;
 		line-height: 1.5em;
+		text-transform: uppercase;	
 	}
 
 	h4 {
@@ -972,6 +973,7 @@
 			background: #10252e;
 			position: absolute;
 			top: 0;
+			left: 0;
 			width: 100%;
 			display: flex;
 			flex-direction: row;
@@ -1020,8 +1022,8 @@
 			opacity: 1;
 			position: relative;
 			z-index: 1;
-			padding-top: 130px;
-    			margin-right: 200px;
+			padding-top: 50vh;
+    		//margin-right: 200px;
 
 			.actions {
 				@include vendor('transition', 'transform 1.25s ease');
