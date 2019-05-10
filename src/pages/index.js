@@ -22,7 +22,7 @@ class Homepage extends React.Component {
                             <header className="major">
                                 <h2>Wir erfüllen Ihre Finanzierungswünsche.</h2>
                             </header>
-                            <p>Unser Angebot...</p>
+                            <p>Unser Angebot:</p>
                         </div>
 
                         <div className="col-4">
